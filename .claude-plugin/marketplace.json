@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "youtube-agent-skill",
+  "description": "The YouTube agent skill pack for Claude, Ness edition",
+  "owner": {
+    "name": "Ness Alazne",
+    "url": "https://builds.digicuratoragency.com"
+  },
+  "plugins": [
+    {
+      "name": "youtube-agent",
+      "description": "Twelve Claude skills that run a YouTube channel, including two fetchers that pull your channel data and transcripts for you and a publish step that uploads through Blotato.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/nessalazne/youtube-agent-skill"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "youtube-agent",
+  "description": "Twelve Claude skills that run a YouTube channel: scripts off 21 hook formulas with a scored hook, title and thumbnail linted as one pairing, an edit decision list from your transcript, a retention reader that finds the exact moments people leave, a Shorts cutter, chapters, search, comments, the weekly plan, a channel audit, a virality engine ranked by outlier multiple, two fetchers that pull your channel data and transcripts off the YouTube API so you never paste them by hand, and a publish step that uploads the finished video through Blotato.",
+  "version": "1.1.0",
+  "author": {
+    "name": "Ness Alazne",
+    "url": "https://builds.digicuratoragency.com"
+  },
+  "homepage": "https://github.com/nessalazne/youtube-agent-skill",
+  "repository": "https://github.com/nessalazne/youtube-agent-skill",
+  "license": "MIT",
+  "keywords": [
+    "youtube",
+    "shorts",
+    "retention",
+    "thumbnails",
+    "titles",
+    "content",
+    "video",
+    "seo",
+    "blotato",
+    "youtube-data-api",
+    "transcripts"
+  ]
+}
