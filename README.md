@@ -3,10 +3,6 @@
 Twelve Claude skills that run a YouTube channel. Eleven of them write. The
 twelfth uploads, through Blotato, and only after you have said "publish".
 
-Forked from Jake Schincariol's
-[youtube-agent-skill](https://github.com/Jakeschincariol/youtube-agent-skill)
-(MIT). What changed in this edition is at the bottom.
-
 One of them writes your script off 21 hook formulas and scores the hook before
 you waste a take on it. One lints the title and the thumbnail as a single
 pairing, because writing them separately is why half of your click surface says
