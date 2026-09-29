@@ -56,7 +56,7 @@ Print this, exactly, and then stop:
 
 ```
 PUBLISH CHECK
-channel:   Learn With Ness          (account 1234, verified YouTube)
+channel:   Your Channel Name        (account 1234, verified YouTube)
 title:     How I Fixed My Retention In 30 Days        (34 / 100 characters)
 privacy:   PRIVATE                  (nothing goes live until you say public)
 notify:    subscribers will NOT be notified
