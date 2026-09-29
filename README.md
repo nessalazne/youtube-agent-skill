@@ -230,6 +230,15 @@ templates/voice.md               the profile every skill reads
 The six Python tools, `hooks.json` and `templates/voice.md` are byte-identical to
 upstream.
 
+## Go deeper
+
+Want to go further, like building these skills into your own app or
+customizing them for how your business works? Join the hub:
+[hub.digicuratoragency.com/join](https://hub.digicuratoragency.com/join).
+
+For more on AI automation, watch the
+[Learn With Ness](https://www.youtube.com/@nessalazne) YouTube channel.
+
 ## Credit
 
 Original pack by Jake Schincariol, [opusjake.ai](https://opusjake.ai). This
